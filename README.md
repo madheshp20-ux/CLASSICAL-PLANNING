@@ -1,8 +1,10 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-# Algorithm or Steps Involved:
+
 
 <h3>Name:        MADHESH P            </h3>
 <h3>Register Number:    212224080032         </h3>
+
+# Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
   <li>Define the goal state</li>
